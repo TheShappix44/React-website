@@ -1,4 +1,6 @@
-I'm trying to build a react app and at this point, npm start, I get this error message:
+I'm trying to build a react app and when I start the website, I get this error message:
+
+
 Compiled with problems:
 
 ERROR in ./src/components/Sidebar/index.js 56:39-51
